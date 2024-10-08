@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Apache Airflow, Machine Learning, Streamlit**
 
-💬 Ask me about **Mention data, and you’ll hear me talk for hours!**
+💬 **Mention data, and you’ll hear me talk for hours!**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
