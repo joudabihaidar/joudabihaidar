@@ -53,12 +53,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <!-- ![joudabihaidar's Stats](https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
-![joudabihaidar's Stats](https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+<!-- ![joudabihaidar's Stats](https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=buefy&show_icons=true&hide_border=false&count_private=true) -->
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=buefy&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-joudabihaidar.vercel.app/api?username=joudabihaidar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=buefy&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joudabihaidar&theme=buefy&hide_border=false" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-joudabihaidar.vercel.app/api/top-langs/?username=joudabihaidar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joudabihaidar&theme=buefy&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
