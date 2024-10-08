@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Apache Airflow, Machine Learning, Streamlit**
+ 🌱 I’m currently learning **Apache Airflow, Streamlit and Machine Learning**
 
 💬 **Mention data, and you’ll hear me talk for hours!**
 
