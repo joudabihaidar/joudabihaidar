@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joudabihaidar.joudabihaidar" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Joud!;+I'm+a+Data+Engineer,+Data+Analyst,+Data+Science+student!+Basically+a+Data+Freak.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Joud!;+I'm+a+Data+Engineer,;+Data+Analyst,;+Data+Science+student!;+Basically+a+Data+Freak.;" />
 </h1>
 
 <h3 align="center">Proudly coding from the heart of Lebanon. 🇱🇧</h3>
