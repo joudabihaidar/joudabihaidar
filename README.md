@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,pandas,matplotlib,seaborn,powerbi" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql" /><br>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/joudabihaidar/joudabihaidar/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
