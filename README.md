@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgresql,pandas,matplotlib,seaborn,powerbi" /><br>
 </div>
 
 <br/>
