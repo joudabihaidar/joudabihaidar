@@ -55,8 +55,8 @@
 <!-- ![joudabihaidar's Stats](https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 <!-- ![joudabihaidar's Stats](https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=buefy&show_icons=true&hide_border=false&count_private=true) -->
 <div align=center>
-  <img width=390 height=300 align="top"src="https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=react&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
-  <img width=390 height=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joudabihaidar&theme=react&hide_border=false" alt="readme stats" />
+  <img width=390 height=350 align="top"src="https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=react&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
+  <img width=390 height=350 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joudabihaidar&theme=react&hide_border=false" alt="readme stats" />
   <br/>
   <!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joudabihaidar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" /> -->
 </div>
