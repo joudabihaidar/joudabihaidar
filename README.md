@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently **a Data Engineer, Data Analyst and a Data Science student** 
+ 🔭 I’m a **Data Engineer, Data Analyst and a Data Science student** 
  
  🌱 I’m currently learning **Apache Airflow, Streamlit and Machine Learning**
 
