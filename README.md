@@ -12,7 +12,7 @@
  
  🔭 I’m a **Data Science Graduate and I currently work as a Data Engineer** 
  
- 🌱 I’m currently learning **Machine Learning**
+ 🌱 I’m highly interested in **Machine Learning**
 
 💬 **Mention data, and you’ll hear me talk for hours!**
 
