@@ -57,6 +57,7 @@
 <div align=center>
   <img  align="top"src="https://github-readme-stats.vercel.app/api?username=joudabihaidar&theme=nord&show_icons=true&hide_border=false&count_private=true" alt="streak stats"/>
   <br/>
+ <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=joudabihaidar&theme=nord&hide_border=true' />
   <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joudabihaidar&theme=nord&hide_border=false" alt="readme stats" />-->
   <!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joudabihaidar&theme=react&show_icons=true&hide_border=false&layout=compact" alt="top langs" /> -->
 </div>
